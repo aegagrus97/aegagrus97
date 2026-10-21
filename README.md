@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Kat 👋
 
-<!--
-**aegagrus97/aegagrus97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Médica veterinaria · Founder en pettech · IA aplicada a salud animal**
 
-Here are some ideas to get you started:
+Soy médica veterinaria (FMVZ-UNAM) y estoy construyendo una startup de pettech en Ciudad de México: una plataforma on-demand que conecta a pet parents con veterinarios a domicilio. 🐾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combino práctica clínica, operación de negocio y producto digital para llevar la atención veterinaria al siguiente nivel.
+
+---
+
+### 🚀 En qué estoy trabajando
+
+- **Startup de pettech (pre-lanzamiento):** marketplace de atención veterinaria a domicilio, empezando por CDMX
+- **Validación en campo:** opero consultas veterinarias a domicilio desde 2024 para entender el servicio de punta a punta
+- **IA aplicada:** frameworks, prompts y skills para automatizar contenido, operación y atención al cliente
+
+### 🧠 Background
+
+- 🩺 Clínica veterinaria de perros y gatos
+- 🏪 Fundé y operé mi propio negocio de estética canina
+- 📈 Marketing digital y growth (certificación Meta) — fundadora de una agencia de marketing veterinario
+- 💼 Experiencia comercial en productos veterinarios, coordinación de proyectos y equipos
+- ⚙️ Estudiando Ingeniería Industrial · Formación en Alta Dirección
+- 🌎 Español nativo · Inglés C1
+
+### 🛠️ Herramientas
+
+`Claude` · `IA generativa` · `Prompt engineering` · `Notion` · `Meta Ads` · `Marketing digital` · `Gestión de proyectos`
+
+### 🤝 Busco conectar con
+
+Founders, inversionistas y talento de producto en **pettech**, **healthtech** e **IA**.
+
+📫 katiamoctezuma@outlook.es
+
+---
+
+*Hi! I'm a veterinarian building a pettech startup in Mexico City: an on-demand platform connecting pet parents with at-home vets. Open to connect with founders, investors and product people in pettech, healthtech and AI.*
